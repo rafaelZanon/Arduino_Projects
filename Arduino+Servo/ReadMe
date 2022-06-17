@@ -1,0 +1,8 @@
+
+Descrição 
+
+Coloque um botao e cada vez que acionar o botao faça com que o servo ande 30 graus. se chegar a
+120 faça ele voltar 30 graus até chegar a zero. Em zero faça ele voltar a incrementar 30 graus
+até chegar a 120.
+
+*Montagem não Disponivel*
